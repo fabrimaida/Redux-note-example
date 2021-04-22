@@ -11,6 +11,7 @@ export default class Home extends Component {
                 <Form />
             </div>
             <div className="NotesListHome">
+                <Text>Secondo check branch</Text>
                 <NotesListHome />
             </div>
  
