@@ -10,6 +10,7 @@ export default class Home extends Component {
             <div className="FormBox">
 
                 <Text>Develop branch</Text>
+                <Text>A</Text>
                 <Form />
             </div>
             <div className="NotesListHome">
