@@ -8,6 +8,8 @@ export default class Home extends Component {
     return (
         <div className="homeContainer">
             <div className="FormBox">
+
+                <Text>Develop branch</Text>
                 <Form />
                 <Text>Branch check</Text>
             </div>
